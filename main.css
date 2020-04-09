@@ -1,2 +1,11 @@
 /* styles go here */
 
+body {
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 80%;
+}
+
+
